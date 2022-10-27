@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: radial-gradient(ellipse at center, #160909 0%,#160909 45%,#291111 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.container{
+  
+}
